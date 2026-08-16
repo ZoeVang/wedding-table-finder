@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Your Table</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <div class="card">
+
+            <p class="eyebrow">WELCOME</p>
+
+            <h1>Find Your Table</h1>
+
+            <p class="instructions">
+                Enter your name below to find your reception table.
+            </p>
+
+            <div class="search-area">
+                <input
+                    type="text"
+                    id="nameInput"
+                    placeholder="Enter your name"
+                    autocomplete="off"
+                >
+
+                <button onclick="findTable()">Search</button>
+            </div>
+
+            <div id="results"></div>
+
+        </div>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
