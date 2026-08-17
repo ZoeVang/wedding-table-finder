@@ -1,23 +1,132 @@
 const guests = [
+    // TABLE 1
     {
-        name: "Emily Johnson",
-        table: 12
+        name: "Laj Teev Her",
+        table: 1
     },
     {
-        name: "Michael Johnson",
-        table: 12
+        name: "Chia Her",
+        table: 1
     },
     {
-        name: "Sarah Williams",
-        table: 7
+        name: "Elvin Her",
+        table: 1
     },
     {
-        name: "James Williams",
-        table: 7
+        name: "Cheyenne Her",
+        table: 1
     },
     {
-        name: "Olivia Chen",
-        table: 19
+        name: "Grandma Her",
+        table: 1
+    },
+    {
+        name: "Kou Vang",
+        table: 1
+    },
+    {
+        name: "Carol Vang",
+        table: 1
+    },
+    {
+        name: "Fue Vang",
+        table: 1
+    },
+    {
+        name: "Sierra Allen",
+        table: 1
+    },
+    {
+        name: "Tobie Vang",
+        table: 1
+    },
+
+    // TABLE 2
+    {
+        name: "Sam Her",
+        table: 2
+    },
+    {
+        name: "Aimee Her",
+        table: 2
+    },
+    {
+        name: "Nora Her",
+        table: 2
+    },
+    {
+        name: "Caroline Her",
+        table: 2
+    },
+    {
+        name: "Chu Yang",
+        table: 2
+    },
+    {
+        name: "Emily Yang",
+        table: 2
+    },
+    {
+        name: "Ever Yang",
+        table: 2
+    },
+    {
+        name: "Haisley Yang",
+        table: 2
+    },
+    {
+        name: "Nathan Her",
+        table: 2
+    },
+    {
+        name: "Jasmine Her",
+        table: 2
+    },
+    {
+        name: "Tobie Her",
+        table: 2
+    },
+
+    // TABLE 3
+    {
+        name: "Puj Van",
+        table: 3
+    },
+    {
+        name: "Yaum Vang",
+        table: 3
+    },
+    {
+        name: "Sing Vang",
+        table: 3
+    },
+    {
+        name: "Malee Vang",
+        table: 3
+    },
+    {
+        name: "Lilly Xu",
+        table: 3
+    },
+    {
+        name: "Victor Xu",
+        table: 3
+    },
+    {
+        name: "Jaza Xiong",
+        table: 3
+    },
+    {
+        name: "Alex Xiong",
+        table: 3
+    },
+    {
+        name: "Amaya Vang",
+        table: 3
+    },
+    {
+        name: "Nick Vang",
+        table: 3
     }
 ];
 
